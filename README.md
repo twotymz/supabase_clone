@@ -1,4 +1,4 @@
-# Mock supabase.io
+# A supabase.io clone
 
 Minimal project to get a [supabase.io](http://supabase.io) back-end working locally mostly derived from their docker files but with some QOL mods by me.
 
